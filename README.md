@@ -1,1 +1,1 @@
-# PA4
+This project has the user input a number of managers (up to 100), then for each manager their name, hourly wage, hours worked, and bonus. The program then determines the highest paid manager and the average pay and displays these results. The information about the individual managers is stored in dynamically created Manager objects, the manager class being derived from the Employee class. The objects are accessed through an array of pointers to those objects. 
